@@ -1,4 +1,4 @@
-## password_generator
+## Password_generator
 
 A simple yet powerful password generator built with React. This application allows users to create secure passwords based on customizable criteria, including length and the inclusion of numbers and special characters.
 
