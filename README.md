@@ -9,6 +9,7 @@ A simple yet powerful password generator built with React. This application allo
 *Character Options: Users can choose to include numbers and special characters to enhance password strength.
 
 *Copy to Clipboard: Easily copy generated passwords to the clipboard for convenience.
+
 *Responsive Design: The app is designed to be user-friendly and works well on various devices.
 
 ## Technologies Used
